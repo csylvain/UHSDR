@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="156.9335mm"
+   height="95.069519mm"
+   viewBox="0 0 556.06359 336.8605"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="right-panel.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4792">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4794" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4796" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4708">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4710" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4712" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4708"
+       id="linearGradient4714"
+       x1="110.62693"
+       y1="468.99911"
+       x2="654.05859"
+       y2="468.99911"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4792"
+       id="radialGradient4798"
+       cx="205.06096"
+       cy="372.52954"
+       fx="205.06096"
+       fy="372.52954"
+       r="21.197975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(10,22)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="115.11291"
+     inkscape:cy="99.302848"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5156"
+       originx="-109.62693"
+       originy="-414.16252" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.62693,-301.33917)">
+    <rect
+       style="opacity:0.34900004;fill:none;fill-rule:evenodd;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4696"
+       width="538.41132"
+       height="312.13715"
+       x="127.27922"
+       y="326.06253" />
+    <rect
+       style="opacity:0.225;fill:url(#linearGradient4714);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4698"
+       width="540.43164"
+       height="330.31989"
+       x="112.12693"
+       y="303.83917" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718"
+       cx="515.34027"
+       cy="530.09308"
+       r="35.355339" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72550094;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718-7"
+       cx="369.47467"
+       cy="513.38489"
+       r="20.335224" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72550094;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718-7-4"
+       cx="287.04578"
+       cy="513.89001"
+       r="20.335224" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72550094;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718-7-1"
+       cx="554.51282"
+       cy="392.59045"
+       r="20.335224" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72550094;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718-7-1-5"
+       cx="476.73111"
+       cy="393.58029"
+       r="20.335224" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72550094;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718-7-1-5-8"
+       cx="297.93411"
+       cy="393.53967"
+       r="20.335224" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient4798);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72550094;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718-7-1-5-5"
+       cx="215.06096"
+       cy="394.52954"
+       r="20.335224" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="204.75899"
+       y="341.25055"
+       id="text5158"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160"
+         x="204.75899"
+         y="341.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Speaker/Phones</tspan><tspan
+         sodipodi:role="line"
+         x="204.75899"
+         y="364.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5162">J4-UI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="309.10419"
+       y="341.25055"
+       id="text5158-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5"
+         x="309.10419"
+         y="341.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Microphone/PTT</tspan><tspan
+         sodipodi:role="line"
+         x="309.10419"
+         y="364.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5162-8">J3-UI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="477.10419"
+       y="341.25055"
+       id="text5158-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5-0"
+         x="477.10419"
+         y="341.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Line In</tspan><tspan
+         sodipodi:role="line"
+         x="477.10419"
+         y="364.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5162-8-0">J2-UI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="557.10419"
+       y="341.25055"
+       id="text5158-0-5-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5-0-4"
+         x="557.10419"
+         y="341.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Line Out</tspan><tspan
+         sodipodi:role="line"
+         x="557.10419"
+         y="364.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227">J1-UI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="513.10419"
+       y="455.25055"
+       id="text5158-0-5-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5-0-4-3"
+         x="513.10419"
+         y="455.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Power Connector</tspan><tspan
+         sodipodi:role="line"
+         x="513.10419"
+         y="478.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227-5">J1-RF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="369.10419"
+       y="455.25055"
+       id="text5158-0-5-6-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5-0-4-3-3"
+         x="369.10419"
+         y="455.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Paddle</tspan><tspan
+         sodipodi:role="line"
+         x="369.10419"
+         y="478.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227-5-1">J2-RF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="285.10419"
+       y="455.25055"
+       id="text5158-0-5-6-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5-0-4-3-0"
+         x="285.10419"
+         y="455.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Accessory</tspan><tspan
+         sodipodi:role="line"
+         x="285.10419"
+         y="478.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227-5-0">J3-RF</tspan></text>
+  </g>
+</svg>

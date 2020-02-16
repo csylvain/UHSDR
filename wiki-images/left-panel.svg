@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="156.9335mm"
+   height="95.069519mm"
+   viewBox="0 0 556.06359 336.8605"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="left-panel.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5283">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5285" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5287" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4708">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4710" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4712" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4708"
+       id="linearGradient4714"
+       x1="110.62693"
+       y1="468.99911"
+       x2="654.05859"
+       y2="468.99911"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5283"
+       id="radialGradient5291"
+       cx="515.34027"
+       cy="530.09308"
+       fx="515.34027"
+       fy="530.09308"
+       r="36.855339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5329718,0,0,1.5329718,-440.3047,-272.88182)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="224.59666"
+     inkscape:cy="151.62165"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5156"
+       originx="-109.62693"
+       originy="-414.16252" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.62693,-301.33917)">
+    <rect
+       style="opacity:0.34900004;fill:none;fill-rule:evenodd;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4696"
+       width="538.41132"
+       height="312.13715"
+       x="127.27922"
+       y="326.06253" />
+    <rect
+       style="opacity:0.225;fill:url(#linearGradient4714);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4698"
+       width="540.43164"
+       height="330.31989"
+       x="112.12693"
+       y="303.83917" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient5291);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.59891558;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4718"
+       cx="349.69742"
+       cy="539.73596"
+       r="54.198738" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="349.10419"
+       y="453.25055"
+       id="text5158-0-5-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5160-5-0-4-3"
+         x="349.10419"
+         y="453.25055"
+         style="font-size:12.5px;text-align:center;text-anchor:middle">Antenna Connector</tspan><tspan
+         sodipodi:role="line"
+         x="349.10419"
+         y="476.35117"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227-5">BNC</tspan></text>
+    <rect
+       style="opacity:0.906;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5293"
+       width="100"
+       height="33.333332"
+       x="202"
+       y="374.36221" />
+    <rect
+       style="opacity:0.906;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.12972426;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5293-1"
+       width="34.298847"
+       height="17.632179"
+       x="485.13629"
+       y="374.4985" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="251.10419"
+       y="363.25055"
+       id="text5158-0-5-6-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="251.10419"
+         y="363.25055"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227-5-0">USB-A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="501.10419"
+       y="363.25055"
+       id="text5158-0-5-6-4-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="501.10419"
+         y="363.25055"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan5227-5-0-7">miniUSB</tspan></text>
+  </g>
+</svg>
